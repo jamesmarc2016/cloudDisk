@@ -11,27 +11,27 @@
 	<artifactId>cloudDisk-web</artifactId>
 	<packaging>war</packaging>
 	<name>cloudDisk-web Maven Webapp</name>
-	<url>http://maven.apache.org</url>
 
-	<!-- <dependencies>
-		<dependency>
-			<groupId>cf.jamesmarc</groupId>
-			<artifactId>cloudDisk-service</artifactId>
-			<version>${parent.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>cf.jamesmarc</groupId>
-			<artifactId>cloudDisk-entity</artifactId>
-			<version>${parent.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>cf.jamesmarc</groupId>
-			<artifactId>cloudDisk-utils</artifactId>
-			<version>${parent.version}</version>
-		</dependency>
-	</dependencies> -->
+	<dependencies>
 
-	<build>
-		<finalName>cloudDisk-web</finalName>
-	</build>
+	</dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<mainClass>cf.jamesmarc.Application</mainClass>
+				</configuration>
+				<executions>
+					<execution>
+						<goals>
+							<goal>repackage</goal>
+						</goals>
+					</execution>
+				</executions>
+            </plugin>
+        </plugins>
+    </build>
 </project>

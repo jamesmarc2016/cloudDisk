@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cloudDisk-web:war">
+    <output-path>$PROJECT_DIR$/cloudDisk-web/target</output-path>
+    <root id="archive" name="cloudDisk-web-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cloudDisk-web:war exploded" />
+    </root>
+  </artifact>
+</component>

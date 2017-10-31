@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudDisk.iml" filepath="$PROJECT_DIR$/cloudDisk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudDisk-dao/cloudDisk-dao.iml" filepath="$PROJECT_DIR$/cloudDisk-dao/cloudDisk-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudDisk-entity/cloudDisk-entity.iml" filepath="$PROJECT_DIR$/cloudDisk-entity/cloudDisk-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudDisk-service/cloudDisk-service.iml" filepath="$PROJECT_DIR$/cloudDisk-service/cloudDisk-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudDisk-utils/cloudDisk-utils.iml" filepath="$PROJECT_DIR$/cloudDisk-utils/cloudDisk-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudDisk-web/cloudDisk-web.iml" filepath="$PROJECT_DIR$/cloudDisk-web/cloudDisk-web.iml" />
+    </modules>
+  </component>
+</project>
