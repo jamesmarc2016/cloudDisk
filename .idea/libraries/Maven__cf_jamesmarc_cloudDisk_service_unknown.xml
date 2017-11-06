@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cf.jamesmarc:cloudDisk-service:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cf/jamesmarc/cloudDisk-service/unknown/cloudDisk-service-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cf/jamesmarc/cloudDisk-service/unknown/cloudDisk-service-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cf/jamesmarc/cloudDisk-service/unknown/cloudDisk-service-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
